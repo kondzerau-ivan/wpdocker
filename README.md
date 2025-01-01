@@ -1,6 +1,5 @@
 # Docker WordPress setup
 
----
 
 Command signature | Description
 ----------------- | -----------
